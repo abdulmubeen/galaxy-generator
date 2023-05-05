@@ -1,0 +1,20 @@
+{
+  "name": "lesson-galaxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lil-gui": "^0.18.1",
+    "three": "^0.151.3",
+    "tweakpane": "^3.1.8"
+  },
+  "devDependencies": {
+    "vite": "^4.2.1"
+  }
+}
